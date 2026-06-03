@@ -34,7 +34,15 @@ after ~10,000 episodes — it drives.
 |---|---|
 | car crashes into every wall | car navigates the full track cleanly |
 
-[![Watch the Video]](assets/VSR CAR Demo.mp4.mp4)
+
+
+https://github.com/user-attachments/assets/86fe0831-2f69-4da0-8320-1e2deab4ad93
+
+
+
+
+
+
 
 ---
 

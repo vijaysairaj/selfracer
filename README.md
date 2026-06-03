@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="assets/logo.png" alt="selfracer" width="64" height="64" style="border-radius: 16px;" />
-</p>
 
 <h1 align="center">selfracer</h1>
 
@@ -37,7 +34,7 @@ after ~10,000 episodes — it drives.
 |---|---|
 | car crashes into every wall | car navigates the full track cleanly |
 
-*(drop a screen recording or gif in `assets/demo.gif`)*
+[![Watch the Video]](assets/VSR CAR Demo.mp4.mp4)
 
 ---
 
